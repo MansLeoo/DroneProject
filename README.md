@@ -1,6 +1,6 @@
 # 📄 Rapport de projet InfoRV – Master 1 MTI3D
 
-Ce dépôt contient les pages numérisées de mon rapport de mon premier projet en collaboratiojn avec l'Ipal réalisé durant l'année 2024–2025 dans le cadre du Master MTI3D.
+Ce dépôt contient les pages de mon rapport de mon premier projet en collaboration avec l'Ipal réalisé durant l'année 2024–2025 dans le cadre du Master MTI3D.
 
 
 
