@@ -1,4 +1,4 @@
-## 🚁 Rapport de Projet Drone – Version Anglaise
+## 🚁 IPAL PROJECT
 
 <p align="center">
   <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0000.jpg?raw=true">
