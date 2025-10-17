@@ -1,42 +1,36 @@
-# 📄 Rapport de projet InfoRV – Master 1 MTI3D
+## 🚁 Rapport de Projet Drone – Version Anglaise
 
-Ce dépôt contient les pages de mon rapport de mon premier projet en collaboration avec l'Ipal réalisé durant l'année 2024–2025 dans le cadre du Master MTI3D.
-
-
-
-![Page 1](img/MansLeo_Drone_Project_bibliographique-01.png)
-
-![Page 2](img/MansLeo_Drone_Project_bibliographique-02.png)
-
-![Page 3](img/MansLeo_Drone_Project_bibliographique-03.png)
-
-![Page 4](img/MansLeo_Drone_Project_bibliographique-04.png)
-
-![Page 5](img/MansLeo_Drone_Project_bibliographique-05.png)
-
-![Page 6](img/MansLeo_Drone_Project_bibliographique-06.png)
-
-![Page 7](img/MansLeo_Drone_Project_bibliographique-07.png)
-
-![Page 8](img/MansLeo_Drone_Project_bibliographique-08.png)
-
-![Page 9](img/MansLeo_Drone_Project_bibliographique-09.png)
-
-![Page 10](img/MansLeo_Drone_Project_bibliographique-10.png)
-
-![Page 11](img/MansLeo_Drone_Project_bibliographique-11.png)
-
-![Page 12](img/MansLeo_Drone_Project_bibliographique-12.png)
-
-![Page 13](img/MansLeo_Drone_Project_bibliographique-13.png)
-
-![Page 14](img/MansLeo_Drone_Project_bibliographique-14.png)
-
-![Page 15](img/MansLeo_Drone_Project_bibliographique-15.png)
-
-![Page 16](img/MansLeo_Drone_Project_bibliographique-16.png)
-
-![Page 17](img/MansLeo_Drone_Project_bibliographique-17.png)
-
-
-
+<p align="center">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0000.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0001.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0002.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0003.jpg?raw=true">
+</p>
+<p align="center">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0004.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0005.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0006.jpg?raw=true">
+</p>
+<p align="center">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0007.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0008.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0009.jpg?raw=true">
+</p>
+<p align="center">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0010.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0011.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0012.jpg?raw=true">
+</p>
+<p align="center">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0013.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0014.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0015.jpg?raw=true">
+</p>
+<p align="center">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0016.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0017.jpg?raw=true">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0018.jpg?raw=true">
+</p>
+<p align="center">
+  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0019.jpg?raw=true">
+</p>
