@@ -1,7 +1,6 @@
 ## 🚁 IPAL PROJECT
 
 <p align="center">
-  <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0000.jpg?raw=true">
   <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0001.jpg?raw=true">
   <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0002.jpg?raw=true">
   <img src="https://github.com/MansLeoo/DroneProject/blob/main/img/MansLeo_Drone_Project_ANG_page-0003.jpg?raw=true">
